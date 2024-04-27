@@ -16,5 +16,5 @@ tutorial partially done from week_0000 [2024_02_10] :<br>
 https://docs.godotengine.org/en/stable/getting_started/step_by_step/scripting_first_script.html
 
 repo of club godot crash course progress <br>
-after 2024 04 13 before 2024 04 27 : <br>
-https://github.com/oxbits/godot_cc_20240427
+after 2024 04 27 before 2024 05 11 : <br>
+https://github.com/oxbits/godot_cc_20240511
